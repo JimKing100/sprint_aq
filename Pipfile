@@ -15,6 +15,7 @@ swapi = "*"
 py-openaq = "*"
 pandas = "*"
 gunicorn = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.7"
